@@ -1,0 +1,1 @@
+{"alumnos": [{"nombre": "Jose", "apellido": "Hernandez", "grado": "7", "seccion": "A", "ci": 1, "id": 1}, {"nombre": "Gabriel", "apellido": "Martin", "grado": "8", "seccion": "C", "ci": 2, "id": 2}, {"nombre": "Julio", "apellido": "Borges", "grado": "9", "seccion": "D", "ci": 3, "id": 3}, {"nombre": "Erik", "apellido": "Hakon", "grado": "7", "seccion": "a", "ci": 4, "id": 4}]}
